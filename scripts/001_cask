@@ -8,8 +8,8 @@ echo ".... installing sizeup"
 brew cask install sizeup
 echo ".... installing jumpcut"
 brew cask install jumpcut
-echo ".... installing google-chrome"
-brew cask install google-chrome
+#echo ".... installing google-chrome"
+#brew cask install google-chrome
 echo ".... installing slack"
 brew cask install slack
 #echo ".... installing virtualbox"
