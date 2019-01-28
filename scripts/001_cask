@@ -12,14 +12,14 @@ echo ".... installing google-chrome"
 brew cask install google-chrome
 echo ".... installing slack"
 brew cask install slack
-echo ".... installing virtualbox"
-brew cask install virtualbox
-echo ".... installing virtualbox-extension-pack"
-brew cask install virtualbox-extension-pack
-echo ".... installing vagrant"
-brew cask install vagrant
-echo ".... installing docker"
-brew cask install docker
+#echo ".... installing virtualbox"
+#brew cask install virtualbox
+#echo ".... installing virtualbox-extension-pack"
+#brew cask install virtualbox-extension-pack
+#echo ".... installing vagrant"
+#brew cask install vagrant
+#echo ".... installing docker"
+#brew cask install docker
 echo ".... installing vlc"
 brew cask install vlc
 
