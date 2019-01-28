@@ -3,13 +3,13 @@ This is a collection of dotfiles and scripts I use for customizing OS X to my li
 
 ## Installation
 ```
-  curl https://raw.github.com/AlessioCoser/dotfiles/master/install -L -o - | sh
+  curl https://raw.github.com/elderfuthark/dotfiles/master/install -L -o - | sh
 ```
 
 ## Custom installation
 ```sh
 cd ~
-git clone https://github.com/AlessioCoser/dotfiles.git
+git clone https://github.com/elderfuthark/dotfiles.git
 cd dotfiles
 
 # You can remove/edit the scripts which you don't need
