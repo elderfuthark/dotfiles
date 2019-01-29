@@ -15,7 +15,7 @@
     "explorer.openEditors.visible": 0,
     "workbench.startupEditor": "none",
     "workbench.colorTheme": "Material Theme",
-    "workbench.iconTheme": "eq-material-theme-icons",
+    "workbench.iconTheme": "material-icon-theme",
     "files.trimTrailingWhitespace": true,
     "files.autoSave": "onFocusChange",
     "files.exclude": {
