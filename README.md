@@ -9,7 +9,7 @@ This is a collection of dotfiles and scripts I use for customizing OS X to my li
 ## Custom installation
 ```sh
 cd ~
-git clone https://github.com/elderfuthark/dotfiles.git
+git clone https://github.com/AlexSemykin/dotfiles.git
 cd dotfiles
 
 # You can remove/edit the scripts which you don't need
