@@ -1,4 +1,7 @@
 #!/bin/bash
 
-echo ".... installing intellij-idea-ce"
-brew cask install intellij-idea-ce
+echo ".... installing intellij-idea"
+brew cask install intellij-idea
+
+#echo ".... installing intellij-idea-ce"
+#brew cask install intellij-idea-ce
