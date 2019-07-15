@@ -10,7 +10,7 @@ sudo xcodebuild -license accept || true
 if [ -e $DOTSPATH/.git ]; then
   cd $DOTSPATH && git pull
 else
-  git clone https://github.com/AlessioCoser/dotfiles.git $DOTSPATH
+  git clone https://github.com/AlexSemykin/dotfiles.git $DOTSPATH
   cd $DOTSPATH
 fi
 
