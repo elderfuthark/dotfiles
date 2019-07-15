@@ -2513,7 +2513,7 @@
 			<key>Window Type</key>
 			<integer>0</integer>
 			<key>Working Directory</key>
-			<string>/Users/alessiocoser</string>
+			<string>/Users/alex</string>
 		</dict>
 	</array>
 	<key>NoSyncHaveWarnedAboutPasteConfirmationChange</key>
@@ -2558,7 +2558,7 @@
 		</dict>
 	</dict>
 	<key>PrefsCustomFolder</key>
-	<string>/Users/alessiocoser/dotfiles/.config/iTerm</string>
+	<string>/Users/alex/dotfiles/.config/iTerm</string>
 	<key>SUEnableAutomaticChecks</key>
 	<true/>
 	<key>SUFeedAlternateAppNameKey</key>
