@@ -3,7 +3,7 @@ This is a collection of dotfiles and scripts I use for customizing OS X to my li
 
 ## Installation
 ```
-  curl https://raw.github.com/elderfuthark/dotfiles/master/install -L -o - | sh
+  curl https://raw.github.com/AlexSemykin/dotfiles/master/install -L -o - | sh
 ```
 
 ## Custom installation
